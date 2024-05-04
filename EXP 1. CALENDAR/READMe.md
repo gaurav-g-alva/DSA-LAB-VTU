@@ -6,6 +6,8 @@ date of the Day (A integer), the third field is the description of the activity 
 particular day (A dynamically allocated String). <br>
 b) Write functions create(), read() and display(); to create the calendar, to read the data 
 from the keyboard and to print weeks activity details report on screen.<br>
+
+OUTPUT :
  
  ENTER THE NO OF DAYS : 4 <br><br>
  ENTER DETAILS OF DAY 1 :<br>
