@@ -29,8 +29,8 @@ from the keyboard and to print weeks activity details report on screen.<br>
  ENTER DAY NAME : THURSDAY<br>
  ENTER DAY ACTIVITY : TRAVEL<br>
 <br>
-|        ******* WEEK'S ACTIVITY DETAILS *******                |
-|---------------------------------------------------------------|
+        ******* WEEK'S ACTIVITY DETAILS *******<br>            
+
 |   DAY |       DAY NAME        |       DATE    | ACTIVITY      |
 |-------|-----------------------|---------------|---------------|
 |   1   |       MONDAY          |       11      | JOGGING       |
