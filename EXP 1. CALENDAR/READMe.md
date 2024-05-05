@@ -1,13 +1,15 @@
- ##Develop a Program in C for the following:<br> 
-a) Declare a calendar as an array of 7 elements (A dynamically Created array) to represent 
+# BCSL304 DATA  STRUCTURES AND APPLICATION LAB : EXP 1
+# CALENDAR C PROGRAM
+Develop a Program in C for the following:<br> 
+* a) Declare a calendar as an array of 7 elements (A dynamically Created array) to represent 
 7 days of a week. Each Element of the array is a structure having three fields. The first 
 field is the name of the Day (A dynamically allocated String), The second field is the 
 date of the Day (A integer), the third field is the description of the activity for a 
 particular day (A dynamically allocated String). <br>
-b) Write functions create(), read() and display(); to create the calendar, to read the data 
+* b) Write functions create(), read() and display(); to create the calendar, to read the data 
 from the keyboard and to print weeks activity details report on screen.<br>
 
-OUTPUT :
+### OUTPUT :
  
  ENTER THE NO OF DAYS : 4 <br><br>
  ENTER DETAILS OF DAY 1 :<br>
@@ -27,7 +29,8 @@ OUTPUT :
  ENTER DAY NAME : THURSDAY<br>
  ENTER DAY ACTIVITY : TRAVEL<br>
 <br>
-        ******* WEEK'S ACTIVITY DETAILS *******<br>
+|        ******* WEEK'S ACTIVITY DETAILS *******                |
+|---------------------------------------------------------------|
 |   DAY |       DAY NAME        |       DATE    | ACTIVITY      |
 |-------|-----------------------|---------------|---------------|
 |   1   |       MONDAY          |       11      | JOGGING       |
